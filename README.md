@@ -10,7 +10,7 @@ This single-paged application utilizes the MERN stack to create a web applicatio
 
 <br>
 
-### CreateExercise Page
+### Create Exercises
 
 Here is the creation page.
 
