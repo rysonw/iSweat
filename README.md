@@ -2,7 +2,7 @@
 
 ### Overview/Home Page
 
-Here is the landing page:
+Here is the Home Page:
 
 ![Home Page](https://user-images.githubusercontent.com/91065673/186503404-968cc353-868c-4a22-8317-564b574808a7.png)
 
@@ -22,7 +22,7 @@ There is the page where exercise enteries are created and sent to the database. 
 
 ### Edit and Delete Exercises
 
-Users are able to aedit and delete existing exercises when needed.
+Users are able to edit and delete existing exercises when needed.
 
 ![Change](https://user-images.githubusercontent.com/91065673/186504223-8ef8559b-2246-4ae1-a810-c6b25b270212.png)
 
@@ -45,4 +45,5 @@ By clicking on the trash can icon, users are able to delete exercise entries fro
 
 ### `To run this app`
 
-Run the command 'npm install' followed by 'npm start' in your terminal
+Run the command 'npm install' followed by 'npm start' in your terminal.
+Change the anme of the "example.env" to ".env" and add a connect string to your database.
