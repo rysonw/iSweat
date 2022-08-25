@@ -47,4 +47,4 @@ By clicking on the trash can icon, users are able to delete exercise entries fro
 
 Run the command 'npm install' followed by 'npm start' in your terminal.
 <br>
-Change the anme of the "example.env" to ".env" and add a connect string to your database.
+Change the na me of the "example.env" to ".env" and add a connect string to your database.
