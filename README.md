@@ -34,10 +34,10 @@ By clicking on the trash can icon, users are able to delete exercise entries fro
 
 ## Features List
 
-- Stores Exercise statistics in a MongoDB Database
+- Stores exercise statistics in a MongoDB Database
 - Allows users to edit and delete exercise enteries when needed
 - Provides a sleek front-end that enhances user-experience
-- Uses an API to request exercise data from the database 
+- Uses a REST API to request and store exercise data from the database 
 - Presents the data in a simple table for ease of reference
 - Utilizes error messages to ensure user knows what issues the application faces
 - Includes unit tests to ensure application is working as intended
@@ -47,4 +47,4 @@ By clicking on the trash can icon, users are able to delete exercise entries fro
 
 Run the command 'npm install' followed by 'npm start' in your terminal.
 <br>
-Change the na me of the "example.env" to ".env" and add a connect string to your database.
+Change the name of the "example.env" to ".env" and add a connect string to your database.
