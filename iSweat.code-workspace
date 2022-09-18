@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "iSweat",
+			"path": "."
+		},
+		{
+			"name": "exercise-ui",
+			"path": "../exercise-ui"
+		}
+	],
+	"settings": {}
+}
