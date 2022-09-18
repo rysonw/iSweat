@@ -2,10 +2,11 @@
 import mongoose from 'mongoose';
 import 'dotenv/config';
 
+
 // Connect based on the .env file parameters.
 mongoose.connect(
-    process.env.MONGODB_CONNECT_STRING,
-    { useNewUrlParser: true }
+    'mongodb+srv://Anum:USer1@cluster0.0xs7rg7.mongodb.net/?retryWrites=true&w=majority'
+    // { useNewUrlParser: true }
 );
 const db = mongoose.connection;
 

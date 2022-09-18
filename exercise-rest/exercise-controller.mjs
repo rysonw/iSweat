@@ -2,13 +2,14 @@ import 'dotenv/config';
 import express from 'express';
 import * as exercises from './exercise-model.mjs';
 
-const PORT = process.env.PORT;
+const PORT = '8000';
 const app = express();
 app.use(express.json());
 
 
 // CREATE controller ******************************************
 app.post ('/exercises', (req,res) => { 
+    console.log('me chala hoon ik jaga ')
     exercises.createExercise(
         req.body.name, 
         req.body.reps, 
@@ -69,6 +70,7 @@ app.delete('/exercises/:_id', (req, res) => {
 
 // UPDATE controller ************************************
 app.put('/exercises/:_id', (req, res) => {
+    console.log("IN PUT WITH req.body",req.body)
     exercises.replaceExercise(
         req.params._id, 
         req.body.name, 

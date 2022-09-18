@@ -1,0 +1,19 @@
+{
+  "name": "isweat",
+  "version": "1.0.0",
+  "description": "Here is the Home Page:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rysonw/iSweat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rysonw/iSweat/issues"
+  },
+  "homepage": "https://github.com/rysonw/iSweat#readme"
+}
