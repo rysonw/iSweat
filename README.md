@@ -4,7 +4,7 @@
 
 Here is the Home Page:
 
-![Home Page](https://user-images.githubusercontent.com/91065673/186503404-968cc353-868c-4a22-8317-564b574808a7.png)
+![Landing Page](https://user-images.githubusercontent.com/91065673/190895110-7779f6fa-4b8c-45c1-b313-649414dd902d.png)
 
 This single-paged application utilizes the MERN stack to create a web application that hits all the basics when it comes to accurate exercise tracking. The front-end of the app was built Node and React and includes global design features. The backend uses MongoDB persistance, Mongoose, Express, REST, and Node.
 
@@ -14,7 +14,7 @@ This single-paged application utilizes the MERN stack to create a web applicatio
 
 Here is the creation page.
 
-![Create](https://user-images.githubusercontent.com/91065673/186503612-db63e775-2235-4e3f-aa4b-8905ca8fa739.png)
+![Create](https://user-images.githubusercontent.com/91065673/190895174-94b87d3d-2d0f-4e8c-a190-0e25bfb2a0df.png)
 
 There is the page where exercise enteries are created and sent to the database. After adding an exercise, the user is automaticallyt sent back to the home page so they may see their exercise added to the list. 
 
@@ -24,11 +24,11 @@ There is the page where exercise enteries are created and sent to the database. 
 
 Users are able to edit and delete existing exercises when needed.
 
-![Change](https://user-images.githubusercontent.com/91065673/186504223-8ef8559b-2246-4ae1-a810-c6b25b270212.png)
+![Exercise](https://user-images.githubusercontent.com/91065673/190895196-b4e5e488-bfe3-4e5d-ab60-693c27601ae9.png)
 
 By clicking on the trash can icon, users are able to delete exercise entries from the database which will, in turn, remove those exercises from the home page. Clicking on the pencil icon, allows users to edit the fields of existing exercises and have then reflected on the home page.
 
-![Edit](https://user-images.githubusercontent.com/91065673/186504251-83754fd1-a6b0-4946-84a6-6c7e25307c1f.png)
+![Edit_Page](https://user-images.githubusercontent.com/91065673/190895181-7f2fb322-382d-4df1-9dd4-0dddac72a60e.png)
 
 <br>
 
