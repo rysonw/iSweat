@@ -6,7 +6,7 @@ Here is the Home Page:
 
 ![Landing Page](https://user-images.githubusercontent.com/91065673/190895110-7779f6fa-4b8c-45c1-b313-649414dd902d.png)
 
-This single-paged application utilizes the MERN stack to create a web application that hits all the basics when it comes to accurate exercise tracking. The front-end of the app was built Node and React and includes global design features. The backend uses MongoDB persistance, Mongoose, Express, REST, and Node.
+This single-paged application utilizes the MERN stack to create a web application that hits all the basics when it comes to accurate exercise tracking. The front-end of the app was built React and includes global design features. The backend uses MongoDB, Mongoose, Express and NodeJS.
 
 <br>
 
