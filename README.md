@@ -26,7 +26,7 @@ Users are able to edit and delete existing exercises when needed.
 
 ![Exercise](https://user-images.githubusercontent.com/91065673/190895196-b4e5e488-bfe3-4e5d-ab60-693c27601ae9.png)
 
-By clicking on the trash can icon, users are able to delete exercise entries from the database which will, in turn, remove those exercises from the home page. Clicking on the pencil icon, allows users to edit the fields of existing exercises and have then reflected on the home page.
+By clicking on the trash can icon, users are able to delete exercise entries from the database which will, in turn, remove those exercises from the home page. Clicking on the pencil icon, allows users to edit the fields of existing exercises and have them reflected on the home page.
 
 ![Edit_Page](https://user-images.githubusercontent.com/91065673/190895181-7f2fb322-382d-4df1-9dd4-0dddac72a60e.png)
 
